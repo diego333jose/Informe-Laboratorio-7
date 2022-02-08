@@ -32,9 +32,33 @@ Especificos:
 
 Marco teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Diagrama%20en%20blanco%20(4).png)
 
 - Simuladores
+
+- Capacitores
+
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0001.jpg)
+
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0002.jpg)
+
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0003.jpg)
+
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0004.jpg)
+
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0005.jpg)
+
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0006.jpg)
+
+-Inductores
+
+![](
+
+![](
+
+![](
+
+![](
 
 ![](
 
@@ -43,6 +67,8 @@ Marco teorico:
 ![](
 
 - Analisis de datos
+
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0007.jpg)
 
 ![](
 
