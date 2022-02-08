@@ -34,23 +34,23 @@ Especificos:
 
 Marco teorico:
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Diagrama%20en%20blanco%20(4).png)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Diagrama%20en%20blanco%20(4).png)
 
 - Simuladores
 
 - Capacitores
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0001.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0001.jpg)
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0002.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0002.jpg)
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0003.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0003.jpg)
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0004.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0004.jpg)
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0005.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0005.jpg)
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0006.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0006.jpg)
 
 -Inductores
 
@@ -68,7 +68,7 @@ Marco teorico:
 
 - Analisis de datos
 
-![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0007.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0007.jpg)
 
 ![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Capturas%20del%20circuito%202_page-0007.jpg)
 
@@ -92,9 +92,13 @@ Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equiv
 
 Conclusiones:
 
+- Segun lo visto en los simuladores el voltaje pico (Vp), corriente (I) y voltaje (Vo) aumenta conforme la frecuencia aumenta, esto en el caso de inductores siendo los capacitores inversamente proporcionales
+
+- El incremento Frecuencia es directamente proporcional al incremento de los datos solicitados en este laboratorio en el caso de los inductores, siendo los capacitores el caso contrario.
 
 Recomendaciones:
 
+- Emplear DCACLAB en el caso de querer trabajar con oscilimetros.
 
 Referencias:
 
