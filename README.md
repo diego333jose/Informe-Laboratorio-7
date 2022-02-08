@@ -98,7 +98,9 @@ Conclusiones:
 
 Recomendaciones:
 
-- Emplear DCACLAB en el caso de querer trabajar con oscilimetros.
+- Realizar bien la conexión de los instrumentos de medición para evitar errores en la toma de datos.
+
+- Tomar los datos una vez ya estabilizado el circuito
 
 Referencias:
 
