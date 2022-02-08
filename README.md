@@ -24,11 +24,13 @@ Objetivos:
 
 General:
 
-•	
+-	Aprender a emplear capacitores e inductores al construir circuitos eléctricos.
 
 Especificos:
 
+- Entender el funcionamiento de capacitores e inductores.
 
+- Comprender el uso del osciloscopio y multímetro para determinar datos dentro de un circuito que posee capacitores e inductores.
 
 Marco teorico:
 
@@ -52,25 +54,23 @@ Marco teorico:
 
 -Inductores
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/LABO7%20AMONGAS_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Capturas%20del%20circuito%202_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Capturas%20del%20circuito%202_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Capturas%20del%20circuito%202_page-0004.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Capturas%20del%20circuito%202_page-0005.jpg)
 
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Capturas%20del%20circuito%202_page-0006.jpg)
 
 - Analisis de datos
 
 ![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/LABO7%20AMONGAS_page-0007.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-7/blob/main/Imagenes/Capturas%20del%20circuito%202_page-0007.jpg)
 
 Cuestionario 
 
@@ -102,4 +102,4 @@ Referencias:
 
 -Diferencia entre el condensador y el inductor. (s. f.). Recuperado 7 de febrero de 2022, de https://illustrationprize.com/es/73-difference-between-capacitor-and-inductor.html
 
-Link del video:
+Link del video: https://youtu.be/a75vvZN-D7E
