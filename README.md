@@ -54,7 +54,7 @@ Los capacitores en un circuito de corriente continua pasan por dos fases. La pri
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido pudiendo representarlo como en elemento pasivo dentro del circuito
+El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido pudiendo representarlo como en elemento pasivo dentro del circuito al igual que la bobina
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
@@ -72,6 +72,8 @@ Recomendaciones:
 
 Referencias:
 
+-Bobina o inductor—Inductancia—Aplicaciones. (2019, agosto 29). Electrónica Unicrom. https://unicrom.com/bobina-o-inductor/
 
+-Diferencia entre el condensador y el inductor. (s. f.). Recuperado 7 de febrero de 2022, de https://illustrationprize.com/es/73-difference-between-capacitor-and-inductor.html
 
 Link del video:
